@@ -5,10 +5,10 @@ title: "Style your content!"
 subheadline: "Layouts of Feeling Responsive"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+permalink: "/sacredsites/"
 ---
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.categories.sacredsites %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

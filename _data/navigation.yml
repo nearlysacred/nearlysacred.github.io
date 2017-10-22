@@ -6,12 +6,12 @@
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Categories"
+  url: "/sacredsites/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
+  - title: "Sacred Geometry"
+    url: "/sacredsites/the-geometry-of-the-lincoln-memorial"
   - title: "Typography"
     url: "/design/typography/typography/"
   - title: "Page/Post"

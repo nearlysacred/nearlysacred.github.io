@@ -37,32 +37,13 @@ Nearly Sacred has the main focus of finding the sacred in our experiences both w
 
 the philosophers of wisdom concerning the past. My inital draw was to Eastern Taoist concepts that featured balance such as the Tao Te Ching. I also found some
 inspiration within the works of Carl Sagan and philosophers such as Kant. I began studying Kabbalah later, and found the mystical commentaries in the Zohar and other sources superior to academic philosophy. It was only recently, however,
-that I began to appreciate what Yahshuah, known to Pauline Greeks as Jesus, was attempting to accomplish. It was in understanding that that I was led to an understanding of my own actual roots which although clearly had Jewish overtones had some perspectives that were encapsulated by the Lost Church of Jerusalem headed by James the Just and a Jewish sect referred to as the Ebionites.
+that I began to appreciate what Yahshuah, known to Pauline Greeks as Jesus, was attempting to accomplish. I was led to an understanding of my own actual roots which although clearly had Jewish overtones had some perspectives that were encapsulated by the Lost Church of Jerusalem headed by James the Just and a Jewish sect referred to as the Ebionites.
 
 At long last, I have begun to find the threads of what I believed without having a name for it--mere vestiges that hanged liked silken strings in the foggy mists of time that silently but continuously forming a tapestry that I feel compelled to re-weave. 
 
   
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
 
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+
+ 

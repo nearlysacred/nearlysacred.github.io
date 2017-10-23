@@ -11,7 +11,8 @@ widget1:
   title: "Blog & Portfolio"
   url: 'https://nearlysacred.github.io/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'We cover a little bit of everything metaphysical here--from Sacred Geometry to things we are interested in--to our newest podcasts. If you want a quick way to 
+get up to speed, this is the spot to click. '
 widget2:
   title: "Who We Are"
   url: 'http://nearlysacred.github.io/nearlysacred.github.io/info/'

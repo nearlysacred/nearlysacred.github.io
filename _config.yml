@@ -17,7 +17,7 @@ slogan: 'Where Everything Sacred Or Nearly So Lives'
 description: 'That which is sacred, or nearly so.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Site Design based upon:<a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> Copyright 2017 all rights reserved.</p>'
+credits: '<p>Site design based upon: <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> Copyright 2017 all rights reserved.</p>'
 
 # Main author of the website
 # See > authors.yml

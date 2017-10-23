@@ -7,11 +7,11 @@
   side: left
 
 - title: "Categories"
-  url: "/sacredsites/"
+  url: "/sacredgeometry/"
   side: left
   dropdown:
   - title: "Sacred Geometry"
-    url: "/sacredsites/the-geometry-of-the-lincoln-memorial/"
+    url: "/sacredgeometry/the-geometry-of-the-lincoln-memorial/"
   - title: "Typography"
     url: "/design/typography/typography/"
   - title: "Page/Post"

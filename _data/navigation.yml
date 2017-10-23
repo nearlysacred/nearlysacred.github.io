@@ -11,6 +11,7 @@
   side: left
   dropdown:
   - title: "Blog Archive"
+    url: "/blog/archive/"
 
 - title: "Categories"
   url: "/sacredgeometry/"

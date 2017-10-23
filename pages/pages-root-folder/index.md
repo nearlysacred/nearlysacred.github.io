@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: mysticalfog.jpeg
 widget1:
-  title: "Blog & Portfolio"
+  title: "Blog & Info"
   url: 'https://nearlysacred.github.io/blog/'
   image: widget-1-302x182.jpg
   text: 'We cover a little bit of everything metaphysical here--from Sacred Geometry to things we are interested in--to our newest podcasts. If you want a quick way to 

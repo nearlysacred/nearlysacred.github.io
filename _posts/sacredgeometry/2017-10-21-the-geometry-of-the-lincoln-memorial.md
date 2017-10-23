@@ -22,7 +22,7 @@ When we speak of geometry, we often think of it in terms of physical structure, 
 
 The mathematical relationships concerning the structure are as follows:
 
->The exterior of the Memorial echoes a classic Greek temple and features Yule marble from Colorado. The structure measures 189.7 by 118.5 feet (57.8 by 36.1 m) and is 99 feet (30 m) tall. It is surrounded by a peristyle of 36 fluted Doric columns, one for each of the 36 states in the Union at the time of Lincoln's death, and two columns in-antis at the entrance behind the colonnade. The columns stand 44 feet (13 m) tall with a base diameter of 7.5 feet (2.3 m). Each column is built from 12 drums including the capital. The columns, like the exterior walls and facades, are inclined slightly toward the building's interior. This is to compensate for perspective distortions which would otherwise make the memorial appear to bulge out at the top when compared with the bottom, a common feature of Ancient Greek architecture.[wikipedia reference][^1]
+>The exterior of the Memorial echoes a classic Greek temple and features Yule marble from Colorado. The structure measures 189.7 by 118.5 feet (57.8 by 36.1 m) and is 99 feet (30 m) tall. It is surrounded by a peristyle of 36 fluted Doric columns, one for each of the 36 states in the Union at the time of Lincoln's death, and two columns in-antis at the entrance behind the colonnade. The columns stand 44 feet (13 m) tall with a base diameter of 7.5 feet (2.3 m). Each column is built from 12 drums including the capital. The columns, like the exterior walls and facades, are inclined slightly toward the building's interior. This is to compensate for perspective distortions which would otherwise make the memorial appear to bulge out at the top when compared with the bottom, a common feature of Ancient Greek architecture.[^1]
 
 If we begin to sum the relevant digits such as 99 we find the result to be 18 which when again summed becomes a nine. Such analysis is helpful when attempting to understand how a compound number is represented as a base digit. We see the same theme once more with the addition of 36. This should not be surprising as nine has a long Egyptian history of "completeness". Likewise, there are strong overtones of this completeness being echoed in the constellation of Virgo:
 
@@ -42,8 +42,8 @@ If we begin to sum the relevant digits such as 99 we find the result to be 18 wh
 >
 >This angle, 22 degrees north of west, did double duty, pointing to the sunset where, 200 years later, the triangle containing Virgo would appear in the sky and also marking the September 18th rising of Sirius over the Capital. This one alignment, from the Capital to the White House, graphically unites the two most prominent astronomical goddess images, Sirius and Virgo.
 >
->L’Enfant’s plan was changed through the years, and his steadfast defense of certain points led to his being considered difficult. He wanted to keep intact not only the precise sightlines of his alignments... L’Enfant’s idea was to preserve a direct view of the western horizon for the mid-August time period when the Virgo triangle appeared in the sky... the earthly reflection of the Virgo triangle.[bibliotecapleyades reference][^2]
+>L’Enfant’s plan was changed through the years, and his steadfast defense of certain points led to his being considered difficult. He wanted to keep intact not only the precise sightlines of his alignments... L’Enfant’s idea was to preserve a direct view of the western horizon for the mid-August time period when the Virgo triangle appeared in the sky... the earthly reflection of the Virgo triangle.[^2]
 
 
-[^1]: https://en.wikipedia.org/wiki/Lincoln_Memorial
-[^2]: http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_washingtonDC09.htm
+[^1]: [https://en.wikipedia.org/wiki/Lincoln_Memorial](https://en.wikipedia.org/wiki/Lincoln_Memorial)
+[^2]: [http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_washingtonDC09.htm](http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_washingtonDC09.html)

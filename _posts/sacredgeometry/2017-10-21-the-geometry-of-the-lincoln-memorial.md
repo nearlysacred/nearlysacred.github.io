@@ -46,4 +46,4 @@ If we begin to sum the relevant digits such as 99 we find the result to be 18 wh
 
 
 [^1]: [https://en.wikipedia.org/wiki/Lincoln_Memorial](https://en.wikipedia.org/wiki/Lincoln_Memorial)
-[^2]: [http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_washingtonDC09.htm](http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_washingtonDC09.html)
+[^2]: [http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_washingtonDC09.htm](http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_washingtonDC09.htm)

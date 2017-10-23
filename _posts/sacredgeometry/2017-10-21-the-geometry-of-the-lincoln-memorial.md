@@ -29,7 +29,7 @@ If we begin to sum the relevant digits such as 99 we find the result to be 18 wh
 > Pierre-Charles L’Enfant... adventurous Frenchman and a contemporary of Weishaupt, who was primarily responsible for the name and design of the District of Columbia...
 >
 >Pierre was educated first as an artist, where he studied the science of landscape design from the works of Andre le Notre, who designed the great historical axis of Paris, and then as a soldier, where he learned the art of fortification.
-
+>
  >In 1776, as a lieutenant, he joined his regimental Masonic lodge where he met the Marquis de Lafayette and many other young Frenchmen fired up by the new ideals of liberty and equality. In 1777, he offered his services to the new Continental Army of General Washington, and was appointed a captain of engineers...
 >
  >When he learned, in 1789, that his old friend General Washington was planning to establish a new federal capital down in Virginia, L’Enfant wrote directly to him, announcing that,

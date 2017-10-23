@@ -22,7 +22,8 @@ widget3:
   title: "Podcasts"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: 'So you just want to cut to it do you? You can find our podcasts here.There are plenty to pick from. All you have to do is decide what interests you the most!'
+  text: 'So you just want to cut to it do you? You can find our podcasts here.There are plenty to pick from. From out trips to our interviews, all you have to do is 
+pick the topic that interests you the most!'
 #
 # Use the call for action to show a button on the frontpage
 #

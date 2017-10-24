@@ -3,7 +3,7 @@
   side: left
 
 - title: Podcasts
-  url: "/getting-started/"
+  url: "/categories/podcasts"
   side: left
 
 - title: Blog
@@ -19,7 +19,8 @@
   dropdown:
   - title: "Sacred Geometry"
     url: "/category/sacredgeometry/"
-
+  - title: "Sacred Feminine"
+    url: "/category/sacredfeminine/"
 
 - title: "Search"
   url: "/search/"

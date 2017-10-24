@@ -20,7 +20,7 @@ widget2:
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Podcasts"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'https://nearlysacred.github.io/nearlysacred.github.io/category/podcasts/'
   image: widget-github-303x182.jpg
   text: 'So you just want to cut to it do you? You can find our podcasts here.There are plenty to pick from. From out trips to our interviews, all you have to do is 
 pick the topic that interests you the most!'

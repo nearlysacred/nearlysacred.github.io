@@ -8,7 +8,7 @@ permalink: "/contact/"
 ---
                                               
 
-<form method="POST" action="http://formspree.io/questions@nearlysacred.us">
+<form method="POST" action="https://formspree.io/questions@nearlysacred.us">
   <input name="email" placeholder="Your email" type="email">
   <input type="text" placeholder="Your Name" name="name">
   <textarea name="message" placeholder="Your message"></textarea>

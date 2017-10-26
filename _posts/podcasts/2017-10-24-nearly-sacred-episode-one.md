@@ -1,4 +1,4 @@
---
+---
 layout: page
 subheadline: "Where Did the Goddess Go?"
 title: "Nearly Sacred Episode One: Have You Seen the Goddess?"

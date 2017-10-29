@@ -17,7 +17,13 @@ widget2:
   title: "Who We Are"
   url: 'http://nearlysacred.github.io/nearlysacred.github.io/info/'
   text: 'So you want to know more about us eh? Your wish is granted. Simply follow the below link, and find all the information about the hosts of Nearly Sacred that you ever dreamed or dared to know.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+ # video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" 
+ # height="182" alt=""/></a>'
+  image: puzzlepieces.png
+
+
+
+
 widget3:
   title: "Podcasts"
   url: 'https://nearlysacred.github.io/nearlysacred.github.io/category/podcasts/'

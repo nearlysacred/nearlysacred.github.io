@@ -21,7 +21,7 @@ widget2:
 widget3:
   title: "Podcasts"
   url: 'https://nearlysacred.github.io/nearlysacred.github.io/category/podcasts/'
-  image: widget-github-303x182.jpg
+  image: podcastimage.png
   text: 'So you just want to cut to it do you? You can find our podcasts here.There are plenty to pick from. From out trips to our interviews, all you have to do is 
 pick the topic that interests you the most!'
 #

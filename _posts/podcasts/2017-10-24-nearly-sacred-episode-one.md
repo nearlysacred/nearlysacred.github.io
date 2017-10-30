@@ -9,7 +9,7 @@ header:
     caption_url: "https://unsplash.com/"
 image:
     thumb:  standradio.png
-    homepage: standradio.png
+    
 categories:
     - podcasts
     

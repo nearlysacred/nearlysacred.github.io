@@ -8,8 +8,8 @@ header:
     caption: Image by Daniel Von Appen
     caption_url: "https://unsplash.com/"
 image:
-    thumb:  radiograsssmall.png
-    homepage: radiograsssmall.png
+    thumb:  standradio.png
+    homepage: standradio.png
 categories:
     - podcasts
     

@@ -12,7 +12,7 @@ image:
     homepage: homepage_typewriter.jpg
 categories:
     - podcasts
-    - sacredfeminie
+    
 comments: false
 show_meta: false
 mediaplayer: true

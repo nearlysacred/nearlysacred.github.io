@@ -8,7 +8,7 @@ header:
     caption: Image by Daniel Von Appen
     caption_url: "https://unsplash.com/"
 image:
-    thumb:  radiograsssmall-thumb.png
+    thumb:  radiograsssmall.png
     homepage: radiograsssmall.png
 categories:
     - podcasts

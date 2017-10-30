@@ -4,9 +4,9 @@ subheadline: "Interview with Stuart Mitchell"
 title: "Nearly Sacred Episode Two: Stuart Mitchell Interview"
 teaser: "Do you know what strectched music is, or DNA music? Find out on this episode..."
 header:
-    image_fullwidth: "header_typewriter.jpg"
-    caption: Image by Florian Klauer
-    caption_url: "http://florianklauer.de/"
+    image_fullwidth: "oldradio.jpg"
+    caption: Image by Daniel von Appen 
+    caption_url: "https://unsplash.com/"
 image:
     thumb:  typewriter-thumb.jpg
     homepage: homepage_typewriter.jpg

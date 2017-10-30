@@ -8,8 +8,8 @@ header:
     caption: Image by Daniel Von Appen
     caption_url: "https://unsplash.com/"
 image:
-    thumb:  typewriter-thumb.jpg
-    homepage: homepage_typewriter.jpg
+    thumb:  radiosmallgrass-thumb.png
+    homepage: radiosmallgrass.png
 categories:
     - podcasts
     

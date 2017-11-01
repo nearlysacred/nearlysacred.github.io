@@ -13,7 +13,7 @@ permalink: "/contact/"
 
 <form action="https://getsimpleform.com/messages?form_api_token=9b3183c6f9c3013bdafd38cb9e5ddb3e" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+ 
   <!-- all your input fields here.... -->
   <input name="email" placeholder="Your email" type="email">
   <input type="text" placeholder="Your Name" name="name">

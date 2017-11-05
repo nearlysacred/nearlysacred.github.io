@@ -16,7 +16,7 @@ comments: false
 show_meta: false
 ---
 
-In our first analysis of the Lincoln Memorial, we noted some of the dimensions of the temple itself. We likewise noted the affinity for the temple to hold Virgo energy. Read more about that post [here](sacredgeometry/2017-10-21-the-geometry-of-the-lincoln-memorial.md). 
+In our first analysis of the Lincoln Memorial, we noted some of the dimensions of the temple itself. We likewise noted the affinity for the temple to hold Virgo energy. Read more about that post [here](sacredgeometry/2017-10-21-the-geometry-of-the-lincoln-memorial). 
 
 The analysis we covered noted the presence of the numbers 18 (hidden) as a sum of 99, and 36 which is explained as being the number of states present in the Union at the time of Lincoln's death.In Hebrew Gematria, 18 is a special number that has the meaning of being a testament to life. Hence, if you wish to give an interval of money, you do so in intervals of 18. 36 is known as double life, which is considered a double blessing. We can conclude then, that the Lincoln memorial is intended to have deep significance for the life of the United States as the name of Lincoln is Abraham and he acted as father of the nation and ultimately was sacrificed to it. 
 

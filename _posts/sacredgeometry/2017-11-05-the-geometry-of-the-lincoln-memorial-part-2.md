@@ -37,5 +37,5 @@ Julius Caesar was well-loved by the masses--particularly the poor and the middle
 
 Who shall we start with in our analysis? We will start with Lincoln's son, Robert Lincoln in our next post. 
 
-[^1][http://www.history.com/this-day-in-history/the-ides-of-march-julius-caesar-is-murdered](http://www.history.com/this-day-in-history/the-ides-of-march-julius-caesar-is-murdered)
+[^1]: [http://www.history.com/this-day-in-history/the-ides-of-march-julius-caesar-is-murdered](http://www.history.com/this-day-in-history/the-ides-of-march-julius-caesar-is-murdered)
  

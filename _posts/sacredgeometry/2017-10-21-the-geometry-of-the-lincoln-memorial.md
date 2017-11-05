@@ -44,7 +44,7 @@ If we begin to sum the relevant digits such as 99 we find the result to be 18 wh
 >
 >L’Enfant’s plan was changed through the years, and his steadfast defense of certain points led to his being considered difficult. He wanted to keep intact not only the precise sightlines of his alignments... L’Enfant’s idea was to preserve a direct view of the western horizon for the mid-August time period when the Virgo triangle appeared in the sky... the earthly reflection of the Virgo triangle.[^2]
 
-Move on to [part 2](2017-11-05-the-geometry-of-the-lincoln-memorial-part-2.md) of this series!
+Move on to [part 2]({% post_url 2017-11-05-the-geometry-of-the-lincoln-memorial-part-2 %}) of this series!
 
 [^1]: [https://en.wikipedia.org/wiki/Lincoln_Memorial](https://en.wikipedia.org/wiki/Lincoln_Memorial)
 [^2]: [http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_washingtonDC09.htm](http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_washingtonDC09.htm)

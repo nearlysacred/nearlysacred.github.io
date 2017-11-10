@@ -25,5 +25,5 @@ Likewise, we learn about the tritone and the "Devil's interval" that the church 
 world. If you want a good intro into many hidden metaphysical matters, this is the episode for you! 
 
 
-<audio src="https://archive.org/details/NearlySacred/NearlySacredEpisode4.mp3" type="audio/mp3" controls="controls"></audio>
+<audio src="https://ia601501.us.archive.org/16/items/NearlySacred/NearlySacredEpisode4.mp3" type="audio/mp3" controls="controls"></audio>
 

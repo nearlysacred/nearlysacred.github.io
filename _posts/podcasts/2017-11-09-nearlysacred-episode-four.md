@@ -1,10 +1,8 @@
 ---
 layout: page
 subheadline: "Rosslyn Chapel, Sacred Music, The Venus Blueprint"
-title: "Nearly Sacred Episode Four: An Interview with Rich Merrick--Author of 
-the Venus Blueprint
-teaser: "Rich Merrick offers his insights into such matters as sacred music 
-and the construction of Rosslyn Chapel in Scotland."
+title: "Nearly Sacred Episode Four: An Interview with Rich Merrick--Author of the Venus Blueprint
+teaser: "Rich Merrick offers his insights into such matters as sacred music and the construction of Rosslyn Chapel in Scotland."
 header:
     image_fullwidth: "oldradio.jpg"
     caption: Image by Daniel Von Appen

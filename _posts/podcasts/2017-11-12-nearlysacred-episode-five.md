@@ -25,5 +25,5 @@ well beyond slavery and Lincoln was fighting for many things in addition to movi
 perhaps?) 
 
 Listen to the episode, here!
-<audio src="https://archive.org/details/NearlySacred/NearlySacredEpisode5.mp3" type="audio/mp3" controls="controls"></audio>
+<audio src="https://ia801501.us.archive.org/16/items/NearlySacred/NearlySacredEpisode5.mp3" type="audio/mp3" controls="controls"></audio>
 

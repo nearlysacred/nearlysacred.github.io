@@ -18,7 +18,7 @@ show_meta: false
 mediaplayer: true
 ---
 
-After an interview with guest Cort Lindal fails to materialize, Joe Bill and Melissa decide to go to Bardstown, Kentucky. There, they go to a haunted inn, a cemetary 
+After an interview with guest Cort Lindahl fails to materialize, Joe Bill and Melissa decide to go to Bardstown, Kentucky. There, they go to a haunted inn, a cemetary 
 called the Gates of Hell in the dark, and find vestiges of the French Revolution. The civil war also gets thrown into the mix. (Full disclosure: I, Joe Bill 
 Schirtzinger, have some different views on Lincoln now than I did during this episode. While the Lincoln museum definitely lays it on thick, the Southern shadow goes 
 well beyond slavery and Lincoln was fighting for many things in addition to moving against slavery. Of course, history tends to neglect that story. Future podcast 

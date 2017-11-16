@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Do you love Wonderbread? Well, DO YOU?"
-title: "Nearly Sacred Episode Seven: Melissa and Joe Bill Discuss Their New Beliefs and Understandings of Yahshuah."
+title: "Nearly Sacred Episode Seven: Melissa and Joe Bill Discuss Their New Beliefs and Understandings of Yahshuah"
 teaser: "Only listen to this episode if power spiritual-transformation interests you."
 header:
     image_fullwidth: "oldradio.jpg"

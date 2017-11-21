@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "The Holy Mountain and Treachery"
-title: "Nearly Sacred Episode Eight: Melissa and Leslie Recount Their Trip to France Part Two"
+title: "Nearly Sacred Episode Nine: Melissa and Leslie Recount Their Trip to France Part Two"
 teaser: "On a Sacred Journey Up A Holy Mountain, Not All Is As It Seems"
 header:
     image_fullwidth: "oldradio.jpg"

@@ -20,8 +20,10 @@ mediaplayer: true
 
 This episode features Joe Bill and Melissa discussing the French mysteries in connection to some celebrity deaths. Within their analysis is a synthesis of the astrological components of some of those who died along with an examination of controversial places such as St. Sulpice in France. If you like a good mystery that has deep metaphysical overtones, you will love this episode!
 
+![blue apples]({{ site.url }}/images/blueapples.png)
+
 <audio src="https://ia601501.us.archive.org/16/items/NearlySacred/NearlySacredEpisode3.mp3" type="audio/mp3" controls="controls"></audio>
 
 
-![blue apples]({{ site.url }}/images/blueapples.png)
+
 

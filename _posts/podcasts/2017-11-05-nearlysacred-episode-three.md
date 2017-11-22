@@ -23,4 +23,5 @@ This episode features Joe Bill and Melissa discussing the French mysteries in co
 <audio src="https://ia601501.us.archive.org/16/items/NearlySacred/NearlySacredEpisode3.mp3" type="audio/mp3" controls="controls"></audio>
 
 
+![blue apples]({{ site.url }}/images/blueapples.png)
 

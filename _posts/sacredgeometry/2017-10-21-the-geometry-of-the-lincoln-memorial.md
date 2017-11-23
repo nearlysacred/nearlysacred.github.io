@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Redefining Abraham"
-title: "The Sacred Geometry of the Lincoln Memorial"
+title: "The Geometry of the Lincoln Memorial"
 teaser: "Everybody knows Washington D.C. is sacred geometry central station. What they don't know though..."
 header:
     image_fullwidth: "header_typewriter.jpg"

@@ -49,7 +49,7 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-
+    - jekyll-minimagick
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -270,3 +270,19 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+
+#
+#Personal Mods
+#Minimagick
+#
+#
+mini_magick:
+ thumbnail:
+   source: img/photos/original
+   destination: img/photos/thumbnail
+   resize: "100x100"
+ medium:
+   source: img/photos/original
+   destination: img/photos/medium
+   resize: "600x400"

@@ -18,7 +18,6 @@ gallery:
       caption: Rosslyn Steeple
     - image_url: gallery-melissa-4.jpg
       caption: Stuart and Melissa
-        
 categories:
     - podcasts
     - interviews

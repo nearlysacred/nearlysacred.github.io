@@ -31,6 +31,6 @@ In this episode, Melissa and Joe Bill interview Stuart Mitchell about his variou
 "stretched out music", to "DNA music." Stuart discusses the field of music from past composers, as well as some of his experiences from discovering the musical code 
 at Rosslyn Chapel. If you are a music lover and you wonder how a modern composer might utilize ancient thought processes, you will want to give this episode a listen! 
 
-{% raw %}{% include gallery %}{% endraw %}
+{% include gallery %}
 
 <audio src="https://ia801501.us.archive.org/16/items/NearlySacred/nearlySacredEpisode2.mp3" type="audio/mp3" controls="controls"></audio>
